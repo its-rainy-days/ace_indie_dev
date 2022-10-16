@@ -48,7 +48,7 @@ dash:
   #avatar_path: /assets/avatar.png
 
 # Build settings
-theme: bitbrain/jekyll-dash
+theme: https://github.com/bitbrain/jekyll-dash.git
 
 plugins:
  - jekyll-feed
