@@ -1,0 +1,9 @@
+ github_token: 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
+    default_bump: false
+    custom_tag: 2.4.0
+    tag_prefix: v
+    default_prerelease_bump: prerelease
+    release_branches: main
+    create_annotated_tag: false
+    fetch_all_tags: false
+    dry_run: false
